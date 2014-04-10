@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+ 
+    <item
+        android:id="@+id/rotateleft"
+        android:icon="@drawable/images_rotate_left"
+        android:showAsAction="always"
+        android:title="Left Rotation"/>
+    <item
+        android:id="@+id/rotateright"
+        android:icon="@drawable/images_rotate_right"
+        android:showAsAction="always"
+        android:title="Right Rotation"/>
+    <item
+        android:id="@+id/cancelCrop"
+        android:icon="@drawable/navigation_cancel"
+        android:showAsAction="always"
+        android:title="Cancel"/>
+
+</menu>
